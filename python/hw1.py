@@ -7,3 +7,4 @@ c = (x+y)/2
 d = max(x,y)
 e = min(x,y)
 print(a,b,c,d,e)
+print("hello")
