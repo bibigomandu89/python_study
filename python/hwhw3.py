@@ -11,3 +11,5 @@ elif x == "C" or x == "c":
 
 else :
     print("Unknown")
+
+#아! 저장을 안했네
